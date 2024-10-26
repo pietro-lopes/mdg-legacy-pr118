@@ -177,6 +177,9 @@ dependencies {
     modJarJarlessWorkaroundRuntimeOnly("blank:ldlib-forge-1.20.1:1.0.26.b")
     modJarJarlessWorkaroundRuntimeOnly("blank:Registrate-MC1.20:1.3.3")
 
+    // Testing if editing metadata.json works, but it does not
+    // modRuntimeOnly("blank:gregtechceu-modern-890405:5641637-edited")
+
 }
 
 tasks {
